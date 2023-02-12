@@ -81,7 +81,7 @@
 								<div class="row">
 									<div
 										class="col-md-4 offset-md-1 col-sm-12 order-imgBox text-center">
-										<img id="productThumb"
+										<img id="productThumb2"
 											src="<c:url value='/product/display2?no=${product.productNo }' />"
 											alt="상품이미지">
 									</div>
